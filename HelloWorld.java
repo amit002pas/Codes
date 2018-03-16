@@ -1,7 +1,7 @@
 /*
 *
 * @author akumar23
-*
+* This is a simple hello world program for beginners
 */
 class HelloWorld{
 
